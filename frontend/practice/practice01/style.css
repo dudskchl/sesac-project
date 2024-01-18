@@ -10,8 +10,11 @@ h5, p, span, a, strong {
   header,
   section,
   aside,
-  footer, main, div {
-    margin: 0 1.5% 24px 1.5%;
+  main, div {
+    margin: 0 1.5% 0 1.5%;
+  }
+  footer{
+    margin: 100px 1.5% 24px 1.5%;
   }
   section {
     display: inline-block;
